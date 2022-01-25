@@ -8,12 +8,10 @@ int ft_printf(const char *, ...);
 
 Write a library that contains ft_printf, a function that will mimic the real printf.
 
-External functs.
+Authorized external funcitons :
+
 malloc, free, write, va_start, va_arg, va_copy, va_end
 
-See the subjects for further information
-
-SUBJECT
 
 # 📑 Mandatory part
 
