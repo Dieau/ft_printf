@@ -21,3 +21,4 @@ Une petite description des conversions requises :
 • %x imprime un nombre en hexadécimal (base 16).
 • %% imprime un signe de pourcentage..
 
+# RESULTS : 100/100
